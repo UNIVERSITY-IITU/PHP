@@ -1,0 +1,1 @@
+Given two files with the words, separated by spaces. Create a new file containing: a) the lines that are found only in the first file; b) lines that appear in both files; c) lines, which are found in each file of more than two times.

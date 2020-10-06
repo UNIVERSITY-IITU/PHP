@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="975b9773-de51-403e-968b-3b243ef525f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iT4dPVGQubdrRQ0WRsBTaawxZF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/task3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" singleton="false" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="975b9773-de51-403e-968b-3b243ef525f6" name="Default Changelist" comment="" />
+      <created>1601918337750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601918337750</updated>
+      <workItem from="1601918340359" duration="727000" />
+      <workItem from="1601919234650" duration="3885000" />
+      <workItem from="1601953469866" duration="6456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="127" key="#Docker" timestamp="1601919323495">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="319" y="127" key="#Docker/0.0.1440.900@0.0.1440.900" timestamp="1601919323495" />
+    <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601919326807">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1601919326807" />
+    <state x="578" y="312" key="DockerComposeFileDialog" timestamp="1601919358070">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="578" y="312" key="DockerComposeFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1601919358070" />
+    <state x="537" y="379" key="NewPhpFileDialog" timestamp="1601957419457">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="537" y="379" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1601957419457" />
+    <state x="566" y="392" key="NewPhpFileDialog/46.23.1394.877@46.23.1394.877" timestamp="1601918388961" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1601920538482">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1601920538482" />
+  </component>
+</project>

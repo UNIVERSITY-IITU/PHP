@@ -1,0 +1,3 @@
+The user enters the email. Check for correctness  (length of more than eight, there is an @ symbol, after which is present the character '.' between these two characters have at least two letters, ends with 'kz', 'com', 'net')
+The user enters the email. Check for correctness
+The user enters the email. Check for correctness
