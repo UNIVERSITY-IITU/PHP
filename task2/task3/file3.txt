@@ -1,0 +1,6 @@
+New Parser
+Python 3.9 uses a new parser, based on PEG instead of LL(1). The new parser’s performance is roughly comparable to that of the old parser, but the PEG formalism is more flexible than LL(1) when it comes to designing new language features. We’ll start using this flexibility in Python 3.10 and later.
+
+The ast module uses the new parser and produces the same AST as the old parser.
+
+In Python 3.10, the old parser will be deleted and so will all functionality that depends on it (primarily the parser module, which has long been deprecated). In Python 3.9 only, you can switch back to the LL(1) parser using a command line switch (-X oldparser) or an environment variable (PYTHONOLDPARSER=1).

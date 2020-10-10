@@ -7,9 +7,8 @@ $city = array(
     "Atyrau" => ["iop", "gjh", "dfg"]
 );
 
-//foreach ($city as $key => $row){
-//    echo $key."<br>";
-//}
+
+
 
 
 

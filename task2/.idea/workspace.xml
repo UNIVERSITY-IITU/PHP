@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="975b9773-de51-403e-968b-3b243ef525f6" name="Default Changelist" comment="" />
+    <list default="true" id="975b9773-de51-403e-968b-3b243ef525f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/task3/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/file4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/file5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/p.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task7/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/task7/db.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +44,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1iT4dPVGQubdrRQ0WRsBTaawxZF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,11 +88,23 @@
       <workItem from="1601918340359" duration="727000" />
       <workItem from="1601919234650" duration="3885000" />
       <workItem from="1601953469866" duration="6523000" />
+      <workItem from="1602324610393" duration="1783000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="319" y="127" key="#Docker" timestamp="1601919323495">
@@ -74,11 +119,15 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="578" y="312" key="DockerComposeFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1601919358070" />
-    <state x="537" y="379" key="NewPhpFileDialog" timestamp="1601957419457">
+    <state x="537" y="379" key="NewPhpFileDialog" timestamp="1602325455636">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="537" y="379" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1601957419457" />
+    <state x="537" y="379" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1602325455636" />
     <state x="566" y="392" key="NewPhpFileDialog/46.23.1394.877@46.23.1394.877" timestamp="1601918388961" />
+    <state x="533" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602325783075">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1602325783075" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1601920538482">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

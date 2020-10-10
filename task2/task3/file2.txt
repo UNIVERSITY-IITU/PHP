@@ -1,0 +1,9 @@
+Test your application with the -W default command-line option to see DeprecationWarning and PendingDeprecationWarning, or even with -W error to treat them as errors. Warnings Filter can be used to ignore warnings from third-party code.
+
+Python 3.9 is the last version providing those Python 2 backward compatibility layers, to give more time to Python projects maintainers to organize the removal of the Python 2 support and add support for Python 3.9.
+
+Aliases to Abstract Base Classes in the collections module, like collections.Mapping alias to collections.abc.Mapping, are kept for one last release for backward compatibility. They will be removed from Python 3.10.
+
+More generally, try to run your tests in the Python Development Mode which helps to prepare your code to make it compatible with the next Python version.
+
+Note: a number of pre-existing deprecatations were removed in this version of Python as well. Consult the Removed section.
