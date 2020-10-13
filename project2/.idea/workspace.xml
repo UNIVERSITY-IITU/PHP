@@ -20,31 +20,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="975b9773-de51-403e-968b-3b243ef525f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task1/p.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/p.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task3/file1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task3/file2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task3/file3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task3/file4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task3/file5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task3/p.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4/display.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4/result.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task5/h.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task5/login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task5/profile.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6/db.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6/result.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task7/db.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task7/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task7/result.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task1/p.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task2/p.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task3/file1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task3/file2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task3/file3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task3/file4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task3/file5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task3/p.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task4/display.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task4/result.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task5/h.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task5/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task5/profile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task6/db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task6/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task6/result.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task7/db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task7/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task7/result.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +106,8 @@
       <workItem from="1601919234650" duration="3885000" />
       <workItem from="1601953469866" duration="6523000" />
       <workItem from="1602324610393" duration="1783000" />
-      <workItem from="1602555736708" duration="421000" />
+      <workItem from="1602555736708" duration="372000" />
+      <workItem from="1602556209422" duration="1810000" />
     </task>
     <servers />
   </component>
